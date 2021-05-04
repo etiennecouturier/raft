@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Raftkotprog:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Raftkotprog_jar</output-path>
+    <root id="archive" name="Raftkotprog.jar">
+      <element id="module-output" name="Raftkotprog" />
+    </root>
+  </artifact>
+</component>

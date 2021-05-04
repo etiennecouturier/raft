@@ -1,0 +1,101 @@
+parancs/TisztitPalya.java
+ parancs.TisztitPalya
+termek/Halo.java
+ termek.Halo
+parancs/LehelyezViztisztito.java
+ parancs.LehelyezViztisztito
+parancs/EszikHal.java
+ parancs.EszikHal
+parancs/Horgaszik.java
+ parancs.Horgaszik
+parancs/MozgatNyersanyag.java
+ parancs.MozgatNyersanyag
+runner/ParancsFeldolgozo.java
+ runner.ParancsFeldolgozo
+parancs/LeveszEro.java
+ parancs.LeveszEro
+parancs/CapaMozgasJatekosTutajon.java
+ parancs.CapaMozgasJatekosTutajon
+parancs/HaloBegyujt.java
+ parancs.HaloBegyujt
+ui/Tabla.java
+ ui.Tabla
+ ui.Tabla$1
+palya/elemek/nyersanyag/NyersanyagFactory.java
+ palya.elemek.nyersanyag.NyersanyagFactory
+termek/Viztisztito.java
+ termek.Viztisztito
+ui/ImagePanel.java
+ ui.ImagePanel
+parancs/Bovites.java
+ parancs.Bovites
+palya/elemek/nyersanyag/Hulladek.java
+ palya.elemek.nyersanyag.Hulladek
+palya/Palya.java
+ palya.Palya
+parancs/EszikBurgonya.java
+ parancs.EszikBurgonya
+parancs/SutBurgonya.java
+ parancs.SutBurgonya
+parancs/Mozgas.java
+ parancs.Mozgas
+parancs/Felvesz.java
+ parancs.Felvesz
+parancs/SulEtel.java
+ parancs.SulEtel
+palya/elemek/Jatekos.java
+ palya.elemek.Jatekos
+io/FileHandler.java
+ io.FileHandler
+termek/Tuz.java
+ termek.Tuz
+parancs/LehelyezHalo.java
+ parancs.LehelyezHalo
+parancs/TisztitViz.java
+ parancs.TisztitViz
+palya/elemek/Fold.java
+ palya.elemek.Fold
+parancs/ParancsFactory.java
+ parancs.ParancsFactory
+palya/Position.java
+ palya.Position
+palya/JatekElem.java
+ palya.JatekElem
+palya/Irany.java
+ palya.Irany
+palya/elemek/nyersanyag/Deszka.java
+ palya.elemek.nyersanyag.Deszka
+termek/Burgonya.java
+ termek.Burgonya
+parancs/SutHal.java
+ parancs.SutHal
+palya/elemek/Capa.java
+ palya.elemek.Capa
+palya/elemek/nyersanyag/Nyersanyag.java
+ palya.elemek.nyersanyag.Nyersanyag
+palya/elemek/nyersanyag/Hordo.java
+ palya.elemek.nyersanyag.Hordo
+palya/elemek/Nyom.java
+ palya.elemek.Nyom
+parancs/CapaMozgasJatekosVizben.java
+ parancs.CapaMozgasJatekosVizben
+parancs/Command.java
+ parancs.Command
+termek/Hal.java
+ termek.Hal
+palya/Mezo.java
+ palya.Mezo
+parancs/Iszik.java
+ parancs.Iszik
+parancs/LehelyezTuzhely.java
+ parancs.LehelyezTuzhely
+parancs/NoOp.java
+ parancs.NoOp
+palya/elemek/Tenger.java
+ palya.elemek.Tenger
+parancs/GeneralUjNyersanyagok.java
+ parancs.GeneralUjNyersanyagok
+palya/elemek/nyersanyag/Level.java
+ palya.elemek.nyersanyag.Level
+runner/Main.java
+ runner.Main
